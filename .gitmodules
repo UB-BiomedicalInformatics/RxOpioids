@@ -1,0 +1,3 @@
+[submodule "smart-dev-sandbox"]
+	path = smart-dev-sandbox
+	url = https://github.com/smart-on-fhir/smart-dev-sandbox.git
